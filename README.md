@@ -1,4 +1,4 @@
-# ecomm_website2
+# ecommerce_website2
 
 - fully responsive ecommerce website template
 - created using Bootstrap
